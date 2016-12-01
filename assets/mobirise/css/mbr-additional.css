@@ -6,6 +6,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -487,10 +488,16 @@ h6,
 }
 #header1-1b .mbr-section-lead SPAN {
   font-size: 20px;
+  text-align: right;
+  font-family: 'Lora', serif;
+  color: #ffffff;
 }
 #header1-1b .btn {
   font-size: 15px;
 }
+
+
+
 
 
 
@@ -592,6 +599,19 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #content1-1j P {
+  font-family: 'Open Sans', sans-serif;
+}
+#header3-29 .mbr-section-title,
+#header3-29 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-29 SMALL {
+  font-family: 'Lora', serif;
+}
+#header3-29 H3 {
+  font-family: 'Open Sans', sans-serif;
+}
+#content1-2b P {
   font-family: 'Open Sans', sans-serif;
 }
 #header3-1z .mbr-section-title,
