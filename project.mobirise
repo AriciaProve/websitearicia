@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Grafische ontwerpen.html",
+    "currentPage": "Over.html",
     "name": "Beeldbanken",
     "theme": {
       "name": "mobirise3",
@@ -196,7 +196,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "\u001b\u001b\u001bCopyright (c) 2016 Aricia Prové."
+          "text": "\u001b\u001b\u001bCopyright © 2016 Aricia Prové."
         }
       ]
     },
@@ -1450,7 +1450,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "\u001b\u001b\u001bCopyright (c) 2016 Aricia Prové."
+          "text": "\u001b\u001b\u001bCopyright © 2016 Aricia Prové."
         },
         {
           "_tags": [
@@ -2095,7 +2095,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "\u001b\u001b\u001bCopyright (c) 2016 Aricia Prové."
+          "text": "\u001b\u001b\u001bCopyright © 2016 Aricia Prové."
         }
       ]
     },
