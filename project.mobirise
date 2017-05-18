@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Grafische ontwerpen.html",
     "name": "Beeldbanken",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.8.5",
-    "uniqCompNum": 122,
+    "uniqCompNum": 135,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -34,7 +34,7 @@
       "settings": {
         "main": true,
         "title": "",
-        "meta_descr": "",
+        "meta_descr": "Aricia Prové, Grafisch Ontwerp, Aricia, Prové",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -127,7 +127,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Aricia Prové\u001b</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"fotografie.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Werk</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Riooldeksels.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Fotografie</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Riooldeksels.html\">Riooldeksels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Landschappen.html\">Landschap</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Portretten.html\">Portret</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rozen.html\">Rozen</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Grafische ontwerpen.html\" aria-expanded=\"false\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tekeningen.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"over.html\">Over</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"fotografie.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Werk</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Riooldeksels.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Fotografie</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Riooldeksels.html\">Riooldeksels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Landschappen.html\">Landschap</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Portretten.html\">Portret</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rozen.html\">Rozen</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Grafische ontwerpen.html\" aria-expanded=\"false\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tekeningen.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"over.html\">Over</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -162,7 +162,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/voor-website-2000x2666-60.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-4.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -177,8 +177,8 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Verleden <br>in de wetenschap, <br>toekomst&nbsp;<br> in de kunst<br>",
-          "text": "<span style=\"font-style: normal;\">Een samenraapsel van Aricia Prové</span><span style=\"font-style: normal;\"><br></span><span style=\"font-size: 1.5rem; line-height: 1.5;\">Streetart door Cyrcle</span><br>",
+          "title": "Aricia Prové",
+          "text": "<span style=\"font-style: normal;\">Student Grafisch Ontwerp<br></span><span style=\"font-size: 1.5rem; line-height: 1.5;\">LUCA school of Arts</span><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Grafische ontwerpen.html\" data-toolbar=\"-mbrBtnMove\">Grafisch werk</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"over.html\" data-toolbar=\"-mbrBtnMove\">Over</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tekeningen.html\" data-toolbar=\"-mbrBtnMove\">Tekeningen</a>"
         },
         {
@@ -203,7 +203,7 @@
     "Riooldeksels.html": {
       "settings": {
         "title": "Riooldeksels",
-        "meta_descr": "Fotografie, fotografie, riooldeksel, Hamburg",
+        "meta_descr": "Fotografie, fotografie, riooldeksel, Hamburg,Aricia Prové, Grafisch Ontwerp, Aricia, Prové",
         "order": 4
       },
       "components": [
@@ -364,7 +364,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-0090-2000x1333-50-2000x1333-3.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-0090-2000x1333-50.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Riooldeksels",
@@ -502,7 +502,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-0058-2000x1333-2000x1333.jpg",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "1",
@@ -522,7 +522,7 @@
     "Portretten.html": {
       "settings": {
         "title": "Portretten",
-        "meta_descr": "Fotografie, portretten",
+        "meta_descr": "Fotografie, portretten, Aricia Prové, Grafisch Ontwerp, Aricia, Prové",
         "order": 4
       },
       "components": [
@@ -717,7 +717,7 @@
     "Rozen.html": {
       "settings": {
         "title": "Rozen",
-        "meta_descr": "fotografie, rozen",
+        "meta_descr": "fotografie, rozen, Aricia Prové, Grafisch Ontwerp, Aricia, Prové",
         "order": 4
       },
       "components": [
@@ -1042,7 +1042,7 @@
     "Tekeningen.html": {
       "settings": {
         "title": "Tekeningen",
-        "meta_descr": "tekeningen",
+        "meta_descr": "tekeningen, Aricia Prové, Grafisch Ontwerp, Aricia, Prové",
         "order": 5
       },
       "components": [
@@ -1343,7 +1343,7 @@
     "Over.html": {
       "settings": {
         "title": "Over Aricia",
-        "meta_descr": "Aricia Prové",
+        "meta_descr": "Aricia Prové, Grafisch Ontwerp, Aricia, Prové, over",
         "order": 3
       },
       "components": [
@@ -1497,7 +1497,7 @@
     "Grafische ontwerpen.html": {
       "settings": {
         "title": "Grafische ontwerpen",
-        "meta_descr": "kunst, grafisch ontwerp",
+        "meta_descr": "kunst, grafisch ontwerp, Aricia Prové, Grafisch Ontwerp, Aricia, Prové,",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1614,8 +1614,135 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "Grafische ontwerpen",
+          "title": "Grafisch ontwerp",
           "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3n",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Alles heeft zijn plaats",
+          "meta": "Beeldonderzoek, 19 januari, 2017"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "content1-3o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "We werkten met een Bmooc waarin de opdracht was om associaties te plaatsen bij een gekregen beeld. Iedereen werkte op dezelfde mooc en uiteindelijk ontstond er een gigantisch raster met verschillende, uiteenliggende afbeeldingen, die op de een of andere manier toch met elkaar te maken hadden. Volkomen uit hun context getrokken zouden het maar vreemde beelden zijn, maar eenmaal samen maakten ze toch een geheel. De eindopdracht was om deze mooc op een manier te verwerken tot een kunstwerk.&nbsp;"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vierapartbeter-1-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vierapartbeter-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-6-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-6.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-7-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-7.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-8-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-8.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-9-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-9.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-10-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-10.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-3q",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_styles": {
@@ -1668,64 +1795,53 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "slider",
+          "_name": "gallery1",
           "_params": {
-            "autoplay": true,
             "paddingTop": "1",
-            "paddingBottom": "0",
-            "timeout": "3",
-            "slides": [
+            "paddingBottom": "2",
+            "images": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/istanbulekspresaf-printzondersnij-2000x2904-12.jpg",
+                "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "FULL SCREEN SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/istanbulekspresaf-printzondersnij-2000x2904-800x1161.jpg",
+                "image": "@PROJECT_PATH@/assets/images/istanbulekspresaf-printzondersnij-2000x2904.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/istanbulekspresaf-printzondersnij2-2000x2904-98.jpg",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "FULL SCREEN SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/istanbulekspresaf-printzondersnij2-2000x2904-800x1161.jpg",
+                "image": "@PROJECT_PATH@/assets/images/istanbulekspresaf-printzondersnij2-2000x2904.jpg",
+                "caption": "Type caption here",
+                "active": true
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/istanbulekspresaf-printzondersnij-2000x2904-60.jpg",
+                "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayOpacity": "0.2",
-                "overlayColor": "#ffffff",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "FULL SCREEN SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/istanbulekspresaf-printzondersnij-1-2000x2904-800x1161.jpg",
+                "image": "@PROJECT_PATH@/assets/images/istanbulekspresaf-printzondersnij-1-2000x2904.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
-            "fullScreen": false,
-            "bgColor": "#fff",
-            "showBullets": true
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": false
           },
-          "_anchor": "slider-1h",
-          "articleLayout": false
+          "_anchor": "gallery1-3f",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_styles": {
@@ -1774,146 +1890,103 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "slider",
+          "_name": "gallery1",
           "_params": {
-            "autoplay": true,
             "paddingTop": "1",
-            "paddingBottom": "1",
-            "timeout": "3",
-            "slides": [
+            "paddingBottom": "2",
+            "images": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/scan-1-2000x1496-68.jpg",
+                "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "FULL SCREEN SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-1grootte-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-1grootte.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/scan-2-2000x1553-74.jpg",
+                "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "VIDEO SLIDE",
-                "showText": false,
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-2grootte-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-2grootte.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/scan-3-2000x1417-22.jpg",
+                "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "IMAGE SLIDE",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-3-grootte-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-3-grootte.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/scan-5-huisoranje-2000x1400-34.jpg",
+                "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "IMAGE SLIDE",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-4-grootte-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-4-grootte.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/scan-6-2000x1287-32.jpg",
+                "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "IMAGE SLIDE",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-5-huisoranje-grootte-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-5-huisoranje-grootte.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/scan-7-2000x1384-6.jpg",
+                "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "IMAGE SLIDE",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-6-grootte-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-6-grootte.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/scan-2000x1432-59.jpg",
+                "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "IMAGE SLIDE",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-8-grootte-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-8-grootte.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/scan-8-2000x1415-46.jpg",
+                "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "IMAGE SLIDE",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/scan-9-2000x1484-93.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "IMAGE SLIDE",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-9-grootte-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-9-grootte.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
-            "fullScreen": false,
-            "bgColor": "#ffffff",
-            "showBullets": true
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": false
           },
-          "_anchor": "slider-1k",
-          "articleLayout": false
+          "_anchor": "gallery1-3h",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_styles": {
@@ -1966,29 +2039,33 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-2g",
+          "_name": "gallery1",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#fff",
-            "showText": false
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/grap-van-formaat-1400x2033-800x1161.jpg",
+                "image": "@PROJECT_PATH@/assets/images/grap-van-formaat-1400x2033.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": false
           },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/grap-van-formaat-1400x2033-13.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "_anchor": "gallery1-3k",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_styles": {
@@ -2034,51 +2111,47 @@
           "text": "Aan de hand van een loting werden er duo's gevormd. Aangezien dit een van de eerste lesdagen was, waren de meeste studenten nog onbekenden. Deze taak doorbrak de 'eenzaamheid' en liet je kennis maken met je medestudenten, al dan niet op kleine schaal. De opdracht was heel simpel, er moest een tweeluik gemaakt worden met daarop enkel een foto van jezelf (type pasfoto), met daarop enkel je naam en een woord of zin dat een band tussen jullie weergaf. Bij ons werd het koningshuis ons thema, aangezien <i>Leroy</i>&nbsp;afkomstig is van het Franse 'Le Roi' en dus koning betekent, en <i>Aricia</i>&nbsp;de Griekse betekenis 'prinses' inhoudt. Deze link wouden we duidelijk maken door de poster te doen gelijken op een <a href=\"http://assets.catawiki.nl/assets/2012/9/3/e/3/e/e3e98450-d801-012f-e0a9-00505694738d.jpg\" target=\"_blank\">postzegelreeks van koning Boudewijn</a>.&nbsp;"
         },
         {
+          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "slider",
+          "_name": "gallery2",
           "_params": {
-            "autoplay": true,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "timeout": "3",
-            "slides": [
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "images": [
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/blind-date-finish2-2000x2799-17.jpg",
+                "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "FULL SCREEN SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/blind-date-finish-2000x2799-800x1119.jpg",
+                "image": "@PROJECT_PATH@/assets/images/blind-date-finish-2000x2799.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/blind-date-finish-2000x2799-69.jpg",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "FULL SCREEN SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/blind-date-finish2-2000x2799-800x1119.jpg",
+                "image": "@PROJECT_PATH@/assets/images/blind-date-finish2-2000x2799.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
-            "fullScreen": false,
-            "bgColor": "#fff",
-            "showBullets": true
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": false
           },
-          "_anchor": "slider-23",
-          "articleLayout": false
+          "_anchor": "gallery2-3l",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_name": "footer1",
@@ -2102,7 +2175,7 @@
     "Contact.html": {
       "settings": {
         "title": "Contacteer Aricia",
-        "meta_descr": "Aricia Prové"
+        "meta_descr": "contact, Aricia Prové, Grafisch Ontwerp, Aricia, Prové"
       },
       "components": [
         {
@@ -2272,7 +2345,7 @@
     "Landschappen.html": {
       "settings": {
         "title": "Landschappen",
-        "meta_descr": "Fotografie, landschappen"
+        "meta_descr": "Fotografie, landschappen, Aricia Prové, Grafisch Ontwerp, Aricia, Prové"
       },
       "components": [
         {
@@ -2463,10 +2536,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/6c-800x535.jpg",
-                "image": "@PROJECT_PATH@/assets/images/6c.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6c-1-800x535.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6c-1.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -2496,7 +2569,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/4a-800x535.jpg",
                 "image": "@PROJECT_PATH@/assets/images/4a.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
