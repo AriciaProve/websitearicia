@@ -481,6 +481,7 @@ h6,
   font-family: 'Open Sans', sans-serif;
   font-size: 60px;
   text-align: right;
+  color: #000000;
 }
 #header1-1b .mbr-section-lead {
   text-align: right;
@@ -490,7 +491,7 @@ h6,
   font-size: 20px;
   text-align: right;
   font-family: 'Lora', serif;
-  color: #ffffff;
+  color: #000000;
 }
 #header1-1b .btn {
   font-size: 15px;

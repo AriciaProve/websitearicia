@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Riooldeksels.html",
     "name": "Beeldbanken",
     "theme": {
       "name": "mobirise3",
@@ -139,7 +139,8 @@
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-size": "60px",
-              "text-align": "right"
+              "text-align": "right",
+              "color": "#000000"
             },
             ".mbr-section-lead": {
               "text-align": "right",
@@ -151,7 +152,7 @@
               "text-align": "right",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".btn": {
               "font-size": "15px"
@@ -179,7 +180,7 @@
           },
           "title": "Aricia Prové",
           "text": "<span style=\"font-style: normal;\">Student Grafisch Ontwerp<br></span><span style=\"font-size: 1.5rem; line-height: 1.5;\">LUCA school of Arts</span><br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Grafische ontwerpen.html\" data-toolbar=\"-mbrBtnMove\">Grafisch werk</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"over.html\" data-toolbar=\"-mbrBtnMove\">Over</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tekeningen.html\" data-toolbar=\"-mbrBtnMove\">Tekeningen</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"Grafische ontwerpen.html\" data-toolbar=\"-mbrBtnMove\">Grafisch werk</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"over.html\" data-toolbar=\"-mbrBtnMove\">Over</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"tekeningen.html\" data-toolbar=\"-mbrBtnMove\">Tekeningen</a>"
         },
         {
           "_name": "footer1",
@@ -328,7 +329,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-0174-2000x1333-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/riooldeksel.gif",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
