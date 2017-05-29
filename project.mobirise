@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Over.html",
+    "currentPage": "index.html",
     "name": "Beeldbanken",
     "theme": {
       "name": "mobirise3",
@@ -163,7 +163,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/allesheeftzijnplaats.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/landschap.gif",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
