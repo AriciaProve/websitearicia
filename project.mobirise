@@ -163,7 +163,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/landschap.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/allesheeftzijnplaats-1.gif",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
