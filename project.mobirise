@@ -127,7 +127,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Aricia Prové\u001b</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"fotografie.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Werk</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Riooldeksels.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Fotografie</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Riooldeksels.html\">Riooldeksels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Landschappen.html\">Landschap</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Portretten.html\">Portret</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rozen.html\">Rozen</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Grafische ontwerpen.html\" aria-expanded=\"false\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tekeningen.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"over.html\">Over</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"fotografie.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Werk</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Riooldeksels.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Fotografie</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Riooldeksels.html\">Riooldeksels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Landschappen.html\">Landschap</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Portretten.html\">Portret</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rozen.html\">Rozen</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Grafische ontwerpen.html\" aria-expanded=\"false\">Grafisch ontwerp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tekeningen.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"over.html\">Over</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -163,7 +163,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/allesheeftzijnplaats.gif",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -652,7 +652,7 @@
             "paddingBottom": "2",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-0888-2000x3000-52-2000x3000-2000x3000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/portret.gif",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1168,7 +1168,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20160228-185329-copy-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/tekening.gif",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2474,7 +2474,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/10c.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/landschap.gif",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
