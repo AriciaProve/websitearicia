@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Landschappen.html",
     "name": "Beeldbanken",
     "theme": {
       "name": "mobirise3",
@@ -2474,7 +2474,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/landschap.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/landschap-1.gif",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
